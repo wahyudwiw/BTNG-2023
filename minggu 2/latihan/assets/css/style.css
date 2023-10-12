@@ -1,0 +1,47 @@
+h1 {
+    color: brown;
+}
+
+/* id selector */
+#judul {
+    font-weight: 800;
+}
+
+.sub-judul {
+    color: blue;text-shadow: 5px 3px 5px red;
+
+}
+.content {
+    font-size: italic;
+    color: blueviolet;
+}
+
+.p1, .p3 {
+    color: aquamarine;
+}
+
+.link:haver {
+    background-color: black;
+    color: black;
+}
+
+.box {
+
+    background-color: aqua;
+
+    padding: 10px;
+    margin: 10px;
+}
+.box .content {
+ border: 1px solid blue;
+ background-color: blue;
+}
+.box p {
+    color: white;
+
+}
+body{
+    background-color: blueviolet;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
